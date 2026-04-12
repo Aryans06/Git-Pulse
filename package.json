@@ -1,5 +1,5 @@
 {
-  "name": "commit-brain",
+  "name": "git-pulse",
   "version": "1.0.0",
   "description": "AI-powered conventional commit generator",
   "main": "index.js",
