@@ -15,7 +15,7 @@ An AI-powered CLI tool that uses Google Gemini to automatically read your staged
 Install the package globally via NPM so you can use the `cbm` command anywhere on your computer:
 
 ```bash
-npm install -g git-pulse
+npm install -g @aryans06/git-pulse
 ```
 
 ## Setup (API Key)
