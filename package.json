@@ -12,6 +12,10 @@
   },
   "author": "Aryan",
   "license": "MIT",
+  "repository": {
+   "type":"git",
+   "url":"https://github.com/Aryans06/Git-Pulse.git"
+  },
   "dependencies": {
     "@google/genai": "^1.49.0",
     "@inquirer/prompts": "^8.4.1",
